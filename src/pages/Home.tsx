@@ -13,7 +13,7 @@ const Home = () => {
             handle="jirasak"
             status="Online"
             contactText="Contact Me"
-            avatarUrl="https://member.bottlerefund.net/storage/profiles/2.png"
+            avatarUrl="/image/profile.png"
             showUserInfo={false}
             enableTilt={false}
             enableMobileTilt={false}
